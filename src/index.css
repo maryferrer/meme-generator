@@ -59,3 +59,9 @@ body {
   cursor: pointer;
 }
 /* end Form */
+.meme--image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 40rem;
+}
